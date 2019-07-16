@@ -1,4 +1,21 @@
 # YelpCamp
+Live Link: https://obscure-harbor-44525.herokuapp.com/
+
+I built this app while learning a class on Udemy. It is a web-app for organizing and sharing campsites. A user creates an account then is able to add a new campground site or browse other campgrounds and leave comments. 
+
+## Technologies
+* HTML
+* CSS
+* Javascript
+* Bootstrap
+* MongoDB
+* Mongoose
+* Passport
+* Express
+* EJS
+
+
+## Notes from start to finish
 
 * Add Landing Page
 * Add Campgrounds Page that lists all campgrounds
